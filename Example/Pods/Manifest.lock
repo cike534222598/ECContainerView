@@ -1,0 +1,16 @@
+PODS:
+  - ECContainerView (1.0.0)
+
+DEPENDENCIES:
+  - ECContainerView (from `../`)
+
+EXTERNAL SOURCES:
+  ECContainerView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ECContainerView: e4bc907ec6a6609f1a535ac9944859ec6116fcc1
+
+PODFILE CHECKSUM: fbca68fdb2988f13f2e8f9665bc1fbed0677c933
+
+COCOAPODS: 1.0.1
