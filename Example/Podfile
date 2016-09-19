@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ECContainerView_Example' do
+  pod 'ECContainerView', :path => '../'
+
+  target 'ECContainerView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
